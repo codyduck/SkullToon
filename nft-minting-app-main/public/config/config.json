@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4cfedf77419d629f7c96ef6674a4eed05c907501b45988699baa6f8b61cb5878",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SkullToons",
+  "SYMBOL": "STNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "SkullToons Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/skulltoons1",
+  "SHOW_BACKGROUND": true
+}
